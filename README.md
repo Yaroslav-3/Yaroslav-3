@@ -5,7 +5,7 @@
 - 📫 How to reach me Telegram @TPOE3
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am football player
-- I can use sql
+- I can use sql and MY english knowledge level is C1
 
 <!---
 Yaroslav-3/Yaroslav-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
